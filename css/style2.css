@@ -1,0 +1,34 @@
+body{
+  background-color: #F0F8FF;
+}
+
+
+.aa{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+
+}
+h1{
+  font-size: 50px;
+font-family: Fira sans-serif;
+color: white;
+text-shadow: 2px 2px 4px black;
+}
+p{
+  font-size: 30px;
+}
+.cs{
+  font-size: 17px;
+
+}
+.quote{
+  margin: 15px 0;
+  background-color: #FFFACD;
+  width: 100%;
+  height: auto;
+}
+h4{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
